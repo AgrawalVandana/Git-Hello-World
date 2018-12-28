@@ -4,6 +4,7 @@ Created on Wed Nov  7 18:16:04 2018
 
 @author: Vandana
 """
+# Importing files
 import pandas as pd
 amazon_reviews=pd.read_csv('C:\\Business Analytics\\MIS612-674_Align IS and Stretegies\\DrA\\Project\\amazon.csv')
 
